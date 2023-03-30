@@ -9,7 +9,7 @@
 
 
 var a = 10;
-var a = 20  // first wale ko memory se clean kardega. var sahi tarika nhi used karne project me same variable ko 2 times decare kare hai or yeh value ko change bhi kar deta hai.
+var a = 20  // first wale ko memory se clean kardega. var sahi tarika nhi used karne project me same variable ko 2 times declare kar sakte hai or yeh value ko change bhi kar deta hai.
 console.log(a)
 
 let b = 100;
